@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: Home
 ---
 
-Hi there ~
+## Hi there ~
 
 This is Henry.
 
