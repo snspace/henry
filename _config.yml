@@ -3,3 +3,12 @@ repository: HenryFMa/mhf
 description: Henry Ma's Website
 
 theme: jekyll-theme-modernist
+
+plugins:
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
