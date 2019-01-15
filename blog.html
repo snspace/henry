@@ -5,23 +5,19 @@ title: Blog
 
 {% assign featuredPost = site.posts | where:"title","Gff" %}
 
-<ul>
-    <li>
-    	<h2>
-    		<a href="{{ featuredPost[0].url }}">{{ featuredPost[0].title | upcase }} - {{ featuredPost[0].author }} - {{ featuredPost[0].date | date_to_string }}</a>&nbsp;&nbsp;&nbsp;<img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png" height="23" width="23">
-    	</h2>
-		<p>{{ featuredPost[0].excerpt }}</p>
-		<h3>...</h3>
-	</li>
-</ul>
+<blockquote>
+	<h2>
+    	<a href="{{ featuredPost[0].url }}">{{ featuredPost[0].title | upcase }} - {{ featuredPost[0].author }} - {{ featuredPost[0].date | date_to_string }}</a>&nbsp;&nbsp;&nbsp;<img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png" height="23" width="23">
+    </h2>
+	<p>{{ featuredPost[0].excerpt }}</p>
+	<h3>...</h3>
+</blockquote>
 
 <hr>
 
-<ul>
-	{% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title | upcase  }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </li>
-	{% endfor %}
-</ul>
+{% for post in site.posts %}
+<blockquote>
+    <h2><a href="{{ post.url }}">{{ post.title | upcase  }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+</blockquote>
+{% endfor %}
