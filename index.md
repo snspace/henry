@@ -29,8 +29,6 @@ Who am I???
 
 @HenryFMa
 
-Asset_URL: {{ asset_url }}
-
 ![Automobile]({{ asset_url }}/assets/images/Automobile.png)
 
 ![HandTools]({{ asset_url }}/assets/images/HandTools.png)
