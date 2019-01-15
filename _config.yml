@@ -2,6 +2,8 @@ repository: HenryFMa/mhf
 
 description: Henry Ma's Website
 
+assets_url_cdn: https://cdn.jsdelivr.net/gh/HenryFMa/mhf
+
 theme: jekyll-theme-modernist
 
 plugins:

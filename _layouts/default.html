@@ -1,3 +1,12 @@
+---
+---
+
+{% if jekyll.environment == "production" and site.assets_url_cdn %}
+  {% assign asset_url = site.assets_url_cdn %}
+{% else %}
+  {% assign asset_url = site.url %}
+{% endif %}
+
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -5,7 +14,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="icon" href="https://cdn.jsdelivr.net/gh/HenryFMa/gff/img/gff.png">
+    <link rel="icon" href="{{ asset_url }}/assets/images/favicon.png">
 
 {% seo %}
 

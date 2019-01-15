@@ -23,8 +23,8 @@ Who am I???
 
 @HenryFMa
 
-![Automobile](/assets/images/Automobile.png)
+![Automobile]({{ asset_url }}/assets/images/Automobile.png)
 
-![HandTools](/assets/images/HandTools.png)
+![HandTools]({{ asset_url }}/assets/images/HandTools.png)
 
 :+1: :heart: :+1:
