@@ -1,8 +1,8 @@
 ---
 ---
 
-{% if jekyll.environment == "production" and site.assets_url_cdn %}
-  {% assign asset_url = site.assets_url_cdn %}
+{% if jekyll.environment == "production" and site.assets_shared_cdn %}
+  {% assign asset_url = site.assets_shared_cdn %}
 {% else %}
   {% assign asset_url = site.url %}
 {% endif %}

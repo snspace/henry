@@ -2,7 +2,9 @@ repository: HenryFMa/mhf
 
 description: Henry Ma's Website
 
-assets_url_cdn: https://cdn.jsdelivr.net/gh/HenryFMa/mhf
+assets_url_cdn: 'https://cdn.jsdelivr.net/gh/HenryFMa/mhf'
+
+assets_shared_cdn: 'https://cdn.jsdelivr.net/gh/HenryFMa/shared'
 
 theme: jekyll-theme-modernist
 
