@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+{% if jekyll.environment == "production" and site.assets_url_cdn %}
+  {% assign asset_url = site.assets_url_cdn %}
+{% else %}
+  {% assign asset_url = site.url %}
+{% endif %}
+
 > "...work is fully automated and the need to work replaced with a nomadic life of creative play."   
 > -- Constant Nieuwenhuys
 
@@ -22,6 +28,8 @@ Who am I???
 {% avatar henryfma size=50 %}
 
 @HenryFMa
+
+Asset_URL: {{ asset_url }}
 
 ![Automobile]({{ asset_url }}/assets/images/Automobile.png)
 
