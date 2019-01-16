@@ -32,5 +32,3 @@ Who am I???
 ![Automobile]({{ asset_url }}/assets/images/Automobile.png)
 
 ![HandTools]({{ asset_url }}/assets/images/HandTools.png)
-
-:+1: :heart: :+1:
