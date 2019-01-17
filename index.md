@@ -34,7 +34,7 @@ Who am I???
 ![HandTools]({{ asset_url }}/assets/images/HandTools.png)
 
 <div>
-	<video width="100%" autoplay loop muted>
+	<video width="100%" autoplay loop muted  playsinline>
         <source src="https://cdn.jsdelivr.net/gh/HenryFMa/shared@master/assets/images/videos/Dance.mp4" type="video/mp4">
     </video>
 </div>
