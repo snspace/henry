@@ -9,14 +9,14 @@ title: Home
   {% assign asset_url = site.url %}
 {% endif %}
 
+> "The most unselfish is the most selfish."   
+> -- Laotse
+
 > "...work is fully automated and the need to work replaced with a nomadic life of creative play."   
 > -- Constant Nieuwenhuys
 
 > "Happiness is and ought to be the ultimate currency."   
 > -- Tal Ben-Shahar
-
-> "We are all to some extent persons marooned on a desert island. We all face the same challenge that we would face if we were really there—the challenge of finding the resources within ourselves to live a good human life."   
-> -- Mortimer J Adler
 
 ```
 Who am I???
@@ -32,3 +32,9 @@ Who am I???
 ![Automobile]({{ asset_url }}/assets/images/Automobile.png)
 
 ![HandTools]({{ asset_url }}/assets/images/HandTools.png)
+
+<div>
+	<video width="100%" autoplay loop muted>
+        <source src="https://cdn.jsdelivr.net/gh/HenryFMa/shared@master/assets/images/videos/Dance.mp4" type="video/mp4">
+    </video>
+</div>
