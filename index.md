@@ -38,3 +38,9 @@ Who am I???
         <source src="https://cdn.jsdelivr.net/gh/HenryFMa/shared@master/assets/images/videos/Dance.mp4" type="video/mp4">
     </video>
 </div>
+
+<br>
+
+> "A mind stretched by a new idea can never go back to its original dimensions."
+
+> "Insanity is the logic of an accurate mind overtaxed."
