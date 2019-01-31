@@ -60,4 +60,4 @@ Later on, I found myself in intensively seeking free but great stuff to facilita
 
 > => __Note:__ There is similar hesitation on shipping the website and 52 huntings itself. One factor is my fear of failure(what if ending up with no significant audience?). Moreover, I think ego at play here. “It is low…”  Right???
 
-> __PS:__ I have actually ended up with a happy result of finding _**Github Pages**_, _**JSON Server**_(Deployed on Heroku) and _**jsDelivr**_ as a hybrid hosting solution which is a bit over my best expectation. :whale:
+> __PS:__ I have actually ended up with a happy result of finding _**Github Pages**_, _**JSON Server**_ and _**jsDelivr**_ as a hybrid hosting solution which is a bit over my best expectation. :whale:

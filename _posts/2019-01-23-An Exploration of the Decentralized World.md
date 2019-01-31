@@ -19,13 +19,18 @@ author: Henry Ma
 ## Wonderlands being explored
 
 * [Decentralize@Github](https://github.com/search?o=desc&q=decentralize&s=stars&type=Repositories)
+* [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web): A curated list about the decentralized technologies and tools to develop decentralized applications.
 * ["dApp"@Google](https://www.google.com/search?newwindow=1&q=%22dapp%22)
 
 ## Candidates
 
+* [IPFS](https://github.com/ipfs): A peer-to-peer hypermedia protocol
+
 * [Gun](https://github.com/amark/gun): A realtime, decentralized, offline-first, mutable graph database engine.
 
 * [automerge](https://github.com/automerge)
+
+* [dat](https://datproject.org): dat:// — a peer-to-peer protocol
 
 * [OrbitDB](https://github.com/orbitdb): Peer-to-Peer Databases for the Decentralized Web
 
