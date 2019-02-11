@@ -22,6 +22,9 @@ author: Henry Ma
 * [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web): A curated list about the decentralized technologies and tools to develop decentralized applications.
 * ["dApp"@Google](https://www.google.com/search?newwindow=1&q=%22dapp%22)
 
+---
+* [Decentralized Web Summit](https://decentralizedweb.net)
+
 ## Candidates
 
 * [IPFS](https://github.com/ipfs): A peer-to-peer hypermedia protocol
