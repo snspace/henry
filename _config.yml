@@ -16,3 +16,6 @@ plugins:
  - jekyll-avatar
  - jemoji
  - jekyll-mentions
+
+emoji:
+   src: "https://github.githubassets.com/images/icons"
