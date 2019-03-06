@@ -3,11 +3,7 @@ layout: default
 title: Home
 ---
 
-{% if jekyll.environment == "production" and site.assets_url_cdn %}
-  {% assign asset_url = site.assets_url_cdn %}
-{% else %}
-  {% assign asset_url = site.url %}
-{% endif %}
+{% include variables.html %}
 
 > "The most unselfish is the most selfish."   
 > -- Laotse

@@ -1,7 +1,9 @@
+{% include variables.html %}
+
 <nav>
   {% for item in site.data.navigation %}
     <strong>
-    	<a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+    	<a href="{{ asset_url }}{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
           {{ item.name }}
         </a>
     </strong>&nbsp;

@@ -1,0 +1,7 @@
+{% if jekyll.environment == "production" and site.assets_shared_cdn %}
+  {% assign asset_url = site.assets_shared_cdn %}
+{% elsif jekyll.environment == "ipfs"%}
+  {% assign asset_url = "https://ipfs.io/ipns/henryma.edening.net" %}
+{% else %}
+  {% assign asset_url = site.url %}
+{% endif %}

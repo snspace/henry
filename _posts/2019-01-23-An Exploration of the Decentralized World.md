@@ -50,5 +50,6 @@ using Bitcoin cryptography and BitTorrent network
 > Solid is an exciting new project led by Prof. Tim Berners-Lee, inventor of the World Wide Web, taking place at MIT. The project aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy.
 
 ## Conclusions
+---
+* :whale: **_Stay Tuned ..._**   
 
-* :whale: **_Stay Tuned ..._**
