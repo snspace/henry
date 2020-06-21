@@ -6,7 +6,7 @@ assets_url_cdn: 'https://cdn.jsdelivr.net/gh/HenryFMa/mhf'
 
 assets_shared_cdn: 'https://cdn.jsdelivr.net/gh/HenryFMa/shared'
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-modernist
 
 plugins:
  - jekyll-feed
